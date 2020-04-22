@@ -1,0 +1,14 @@
+hh_kinfit_m
+min_dR_vbfj_b
+min_dR_vbfj_l
+deta_vbf1_vbf2
+dR_vbf1_vbf2
+vbf_invmass
+vbf_eta_prod_sign
+l_1_centrality
+l_2_centrality
+b_1_centrality
+b_2_centrality
+h_bb_centrality
+h_tt_vis_centrality
+hh_centrality
